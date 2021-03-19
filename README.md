@@ -45,7 +45,8 @@ A minimal API that returns a selection of the best betting accommodations offere
 * **Success Response:**
 
   * **Code:** 200 <br />
-    **sample content e:** [
+    **sample content e:** 
+                     ```  [
                             {
                               "title": "Chambre privée à Montmartre",
                               "subtitle": "Grande chambre à deux pas du Sacré-Coeur",
@@ -57,7 +58,7 @@ A minimal API that returns a selection of the best betting accommodations offere
                             }, 
     
                              ... (20 objects)
-                           ]
+                           ] 
  
 * **Error Response:**
 
