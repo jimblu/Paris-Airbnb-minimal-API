@@ -59,7 +59,7 @@ A minimal API that returns a selection of the best betting accommodations offere
     
                              ... (20 objects)
                            ] 
- 
+                     ``` 
 * **Error Response:**
 
   * **Code:** 404 NOT FOUND <br />
