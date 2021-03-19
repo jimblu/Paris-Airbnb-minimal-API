@@ -47,7 +47,7 @@ A minimal API that returns a selection of the best betting accommodations offere
   * **Code:** 200 <br />
     **sample content e:** 
     
-                              ```sh
+                             
                       [
                             {
                                 "title": "Chambre privée à Montmartre",
