@@ -1,11 +1,6 @@
 # Paris-Airbnb-minimal-API
 A minimal API that returns a selection of the best betting accommodations offered by Airbnb.
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-A minimal API that returns a selection of the best betting accommodations offered by Airbnb.
-
 ### Built With
 
 * [Node.js](https://nodejs.org/en/)/[express](https://expressjs.com/fr/)/[cheerio.js](https://cheerio.js.org/)/[puppeteer](https://pptr.dev/)
