@@ -50,7 +50,7 @@ A minimal API that returns a selection of the best betting accommodations offere
                              
                       [
                             {
-                                "title": "Chambre privée à Montmartre",
+                              "title": "Chambre privée à Montmartre",
                               "subtitle": "Grande chambre à deux pas du Sacré-Coeur",
                               "info": "1 voyageur · 1 chambre · 1 lit · 1 salle de bain privée",
                               "addInfo": "Cuisine · Chauffage",
@@ -60,7 +60,7 @@ A minimal API that returns a selection of the best betting accommodations offere
                             },
                       
                             {
-                                "title": "Chambre privée à Montmartre",
+                              "title": "Chambre privée à Montmartre",
                               "subtitle": "Grande chambre à deux pas du Sacré-Coeur",
                               "info": "1 voyageur · 1 chambre · 1 lit · 1 salle de bain privée",
                               "addInfo": "Cuisine · Chauffage",
